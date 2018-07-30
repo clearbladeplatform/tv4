@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,tv4",
+    "logging_enabled": "false",
+    "name": "tv4SmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "tv4SmokeTest.js"
+}
